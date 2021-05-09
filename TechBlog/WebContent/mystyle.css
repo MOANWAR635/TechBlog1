@@ -1,0 +1,104 @@
+body
+{
+	background-color: lightblue;
+}
+.am
+{
+	background-color: white;
+	margin-top: 30px;
+	margin-left:20px; 
+	padding-bottom: 7px;
+	padding-top: 10px;
+}
+
+.ua
+{
+	
+	float:left;
+	padding-left: 50px;
+	color: black;
+}
+.bb
+{
+	float: left;
+	margin: 1px;
+	padding-left: 50px;
+	color: black;
+
+	
+}
+.bb1
+{
+	float: left;
+	padding-left: 50px;
+	color: black;
+}
+.ga
+{
+	float: left;
+	padding-left: 50px;
+	color: black;
+}
+.ca1
+{
+	float: left;
+	padding-left: 50px;
+	color: black;
+}
+.ca
+{
+	float: left;
+	padding-left: 50px;
+	color: black;
+	
+}
+#zz
+{
+	color: blue;
+}
+.anwar
+{
+border: 1px solid;
+width: 200px;
+height: 200px;
+margin-top: 20px;
+margin-left: 100px;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 0px;
+float: left;
+}
+.anwar1
+{
+border: 1px solid;
+width: 200px;
+height: 200px;
+margin-top: 20px;
+margin-right: 100px;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 0px;
+float: right;
+}
+.anwar2
+{
+border: 1px solid;
+width: 250px;
+height: 200px;
+margin-top: 20px;
+margin-right: 100px;
+margin-left:10px;
+padding-left: 30px;
+padding-bottom: 0px;
+padding-right: 40px;
+float: right;
+}
+h2
+{
+	color: black;
+}
+
+
+
+
+
